@@ -52,9 +52,13 @@ Dataset yang digunakan dalam proyek ini terdiri dari dua berkas utama[cite: 1]:
 Hasil prediksi akhir disimpan dalam format CSV dengan struktur kolom berikut[cite: 1]:
 
 Code snippet
+
 id,Life Expectancy
+
 0,72.4
+
 1,68.9
+
 ...
 
 ## Documentation of Submission in Kaggle:
