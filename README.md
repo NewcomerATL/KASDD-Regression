@@ -51,8 +51,6 @@ Dataset yang digunakan dalam proyek ini terdiri dari dua berkas utama[cite: 1]:
 ## 📄 Format Submission
 Hasil prediksi akhir disimpan dalam format CSV dengan struktur kolom berikut[cite: 1]:
 
-Code snippet
-
 id,Life Expectancy
 
 0,72.4
