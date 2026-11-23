@@ -48,6 +48,15 @@ Dataset yang digunakan dalam proyek ini terdiri dari dua berkas utama[cite: 1]:
    ```bash
    pip install numpy pandas matplotlib seaborn scikit-learn optuna xgboost catboost
 
+## 📄 Format Submission
+Hasil prediksi akhir disimpan dalam format CSV dengan struktur kolom berikut[cite: 1]:
+
+Code snippet
+id,Life Expectancy
+0,72.4
+1,68.9
+...
+
 ## Documentation of Submission in Kaggle:
 <img width="1457" height="753" alt="image" src="https://github.com/user-attachments/assets/9689656b-5b56-4300-93e1-ae8e2fdf4d84" />
 
