@@ -47,3 +47,7 @@ Dataset yang digunakan dalam proyek ini terdiri dari dua berkas utama[cite: 1]:
 1. Pastikan Python 3.10+ sudah terpasang beserta pustaka yang dibutuhkan:
    ```bash
    pip install numpy pandas matplotlib seaborn scikit-learn optuna xgboost catboost
+
+## Documentation of Submission in Kaggle:
+<img width="1525" height="652" alt="image" src="https://github.com/user-attachments/assets/f0749d21-9597-41b3-9e66-d33e4f1bb741" />
+
